@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/NavigationDrawerDemo.iml" filepath="$PROJECT_DIR$/NavigationDrawerDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/doyournavigation/doyournavigation.iml" filepath="$PROJECT_DIR$/doyournavigation/doyournavigation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragmentlearn1/fragmentlearn1.iml" filepath="$PROJECT_DIR$/fragmentlearn1/fragmentlearn1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wechatfragment/wechatfragment.iml" filepath="$PROJECT_DIR$/wechatfragment/wechatfragment.iml" />
+    </modules>
+  </component>
+</project>
