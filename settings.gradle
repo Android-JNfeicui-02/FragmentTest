@@ -1,1 +1,1 @@
-include ':app', ':doyournavigation', ':fragmentlearn1', ':wechatfragment'
+include ':app', ':doyournavigation', ':fragmentlearn1', ':wechatfragment', ':myapplication', ':facetointerfacefragment'

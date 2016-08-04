@@ -23,8 +23,8 @@ public class ChatFragment extends Fragment {
     }
 
     public static ChatFragment newInstance(String text) {
-        if (sFragment != null) {
-            //sFragment = new ChatFragment();
+        if (sFragment == null) {
+            sFragment = new ChatFragment();
             Bundle bundle = new Bundle();
             bundle.putString("string", text);
 
